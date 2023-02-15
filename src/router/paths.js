@@ -32,5 +32,5 @@ export default [{
     view:'board/First'
 },{
     path:'/board/detail',
-    view:'board/DetailPage'
+    view:'board/DetailPage' 
 }]
