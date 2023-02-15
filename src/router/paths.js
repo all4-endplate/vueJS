@@ -24,4 +24,13 @@ export default [{
 },{
     path: '/Signup',
     view: 'components/Signup'
+},{
+    path:'/board/list',
+    view:'board/List'
+},{
+    path:'/board/first',
+    view:'board/First'
+},{
+    path:'/board/detail',
+    view:'board/DetailPage'
 }]
