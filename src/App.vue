@@ -6,7 +6,8 @@
       <router-link to="/test">API Test</router-link>| 
       <router-link to="/mypage">mypage</router-link>|
       <router-link to="/Signup">Signup</router-link>|
-      <router-link to="/myLogin">myLogin</router-link>
+      <router-link to="/myLogin">myLogin</router-link>|
+      <router-link to="/board/first">Page</router-link>
     </nav>
     <router-view/>
   </div>
